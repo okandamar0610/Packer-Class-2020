@@ -1,0 +1,7 @@
+{
+    "region" : "us-east-1",
+    "ssh_username" : "centos",
+    "ssh_keyname" : "London Bastion"
+
+
+}
